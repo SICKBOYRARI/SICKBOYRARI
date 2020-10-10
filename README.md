@@ -1,4 +1,4 @@
-![I am Junior Frontend Developer](https://ak.picdn.net/shutterstock/videos/17025883/thumb/1.jpg)
+![I am Junior Frontend Developer](https://i.ibb.co/M8QKCM7/2.jpg)
 
 # Hi there 👋, my name is Andrey
 ## I am Junior Frontend Developer
