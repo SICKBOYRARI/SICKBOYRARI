@@ -1,9 +1,5 @@
-![I am Junior Frontend Developer](https://i.ibb.co/M8QKCM7/2.jpg)
-
 # Hi there 👋, my name is Andrey
 ## I am Junior Frontend Developer
-
-I love the frontend and the areas around it. Great desire to work and develop. Flexible mind. And I also can work in a team.
 
 ## Skills and Exprerience
 
