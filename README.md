@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Andrey
-## I am Junior Frontend Developer
+## I am Frontend Developer
 
 ## Skills and Exprerience
 
